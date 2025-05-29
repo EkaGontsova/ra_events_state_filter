@@ -33,7 +33,7 @@
 - из компонента `Portfolio` передать активный фильтр в свойство `selected` компонента `Toolbar`;
 - в компоненте `Portfolio` отфильтровать по активному фильтру проекты и передать их в компонент `ProjectList`.
 
-![portfolio-cards](./src/assets/portfolio-all.png)
+![portfolio-cards](./src/assets/portfolio-cards.png)
 
 Набор данных для отображения:
 ```js
